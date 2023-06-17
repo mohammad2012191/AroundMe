@@ -6,5 +6,6 @@ Our app aims to make it fast and convenient for users to find relevant places su
 Our app provides a unique and engaging way for users to discover their surroundings and explore new places. With just one button press to get their location, users can access a wealth of information about nearby places and make informed decisions about where to go.
 
 Technologies used:
-1- ChatGPT
-2- Google Maps API
+ChatGPT - Google Maps API
+
+Note: This code is not optimized for speed or APIs usages.
