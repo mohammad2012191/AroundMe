@@ -1,5 +1,6 @@
 # AroundMe
 This is our participation in a Hackathon Hosted by SDAIA in Saudi Arabia.
+
 This is the core implementation of our project AroundMe.
 
 Our app aims to make it fast and convenient for users to find relevant places such as restaurants and stores within their location. Using the Google Maps API, the app displays these places in separate tabs, sorted by rating, and shows the distance to each place. Reviews are summarized using ChatGPT, providing users with a quick and easy way to see the advantages and disadvantages of each place. If the user clicks on a place, they are given more detailed information, as well as a link to the map.
